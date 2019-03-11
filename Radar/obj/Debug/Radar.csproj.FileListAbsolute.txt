@@ -1,0 +1,10 @@
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\bin\Debug\Radar.exe.config
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\bin\Debug\Radar.exe
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\bin\Debug\Radar.pdb
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.csprojAssemblyReference.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.Form1.resources
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.Properties.Resources.resources
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.csproj.CoreCompileInputs.cache
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.exe
+F:\aec\sesiunea 3\mes_cours\ProjetC#\Radar\Radar\obj\Debug\Radar.pdb
